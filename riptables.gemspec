@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.licenses    = ['MIT']
   s.summary     = "An Ruby DSL for generating iptables configuration."
   s.description = "An Ruby DSL for generating iptables configuration. "
-  s.required_ruby_version = ">= 2.0", "< 3"
+  s.required_ruby_version = ">= 2.0"
   s.bindir      = "bin"
   s.executables << 'riptables'
   s.files = Dir["{bin,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]

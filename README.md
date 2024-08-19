@@ -165,7 +165,7 @@ gem install riptables
 $ riptables
 ```
 
-The following options are supported and can be used interchagably:
+The following options are supported and can be used interchangeably:
 
 * `-4` - return the IPv4 configuration (default)
 * `-6` - return the IPv6 configuration (defaults to v4)
